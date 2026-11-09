@@ -21,3 +21,11 @@ Students can access two distinct practice formats tailored to different study st
 
 1.  **Multiple-Choice Review App:** Interactive diagnostic practice featuring instant feedback, randomized/structured options, and step-by-step master solutions.
 2.  **Free-Response Review App:** Comprehensive problem sets featuring scratch-work workspace layouts and detailed step-by-step solution keys.
+
+      ## 🌐 Live Access & Interactive Apps
+
+Click below to launch the interactive review applications:
+
+* ✍️ **[Launch Free-Response Review App](https://mathjjaycuny-boop.github.io/mat105-practice-exam3-MC/index_FA.html)**
+* 📝 **[Launch Multiple-Choice Review App](https://mathjjaycuny-boop.github.io/mat105-practice-exam3-MC/index_MC.html)**
+
